@@ -7,11 +7,16 @@
         <p class="text-white-100 text-opacity-60 text-tiny mb-4 md:mb-0">
           Groceri 2021, All rights reserved.
         </p>
-        <p>
+        <p class="flex">
           <span class="text-white-100 text-opacity-60 text-tiny"
             >Proudly made in</span
           >
-          🇮🇳
+
+          <img
+            src="~/assets/images/india-flag.svg"
+            alt="india flag"
+            class="w-6 ml-2"
+          />
         </p>
       </div>
     </div>
